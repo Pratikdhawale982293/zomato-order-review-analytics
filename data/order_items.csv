@@ -1,0 +1,1022 @@
+order_id,item_name,quantity,price
+1,Veg Burger,1,176.0
+2,Chicken Biryani,3,177.92
+2,Veg Burger,1,118.3
+2,Veg Burger,2,171.98
+3,Paneer Butter Masala,1,117.46
+3,Margarita Pizza,2,211.4
+4,Margarita Pizza,1,105.25
+4,Veg Burger,3,118.61
+4,Chocolate Cake,2,272.74
+5,Veg Burger,2,177.56
+6,Pasta Alfredo,3,281.04
+7,Chocolate Cake,3,133.92
+8,Chicken Biryani,1,153.78
+8,Veg Burger,2,129.19
+9,Margarita Pizza,2,184.22
+10,Paneer Butter Masala,2,150.34
+10,Chicken Biryani,3,225.01
+11,Chocolate Cake,1,191.57
+11,Chicken Biryani,2,101.35
+11,Margarita Pizza,2,268.32
+12,Veg Burger,2,166.95
+12,Pasta Alfredo,3,127.22
+13,Chocolate Cake,3,140.17
+13,Veg Burger,1,292.91
+14,Veg Burger,3,238.99
+14,Margarita Pizza,3,256.39
+15,Margarita Pizza,2,263.3
+15,Margarita Pizza,2,122.78
+16,Chicken Biryani,3,299.45
+16,Chicken Biryani,3,253.52
+16,Paneer Butter Masala,3,192.32
+17,Chicken Biryani,2,259.54
+17,Pasta Alfredo,1,263.79
+17,Margarita Pizza,3,199.86
+18,Veg Burger,1,150.54
+18,Chicken Biryani,3,184.63
+18,Margarita Pizza,1,189.81
+19,Margarita Pizza,3,180.16
+19,Chocolate Cake,3,183.66
+19,Paneer Butter Masala,2,240.33
+20,Chocolate Cake,3,282.88
+20,Paneer Butter Masala,1,231.52
+20,Veg Burger,1,229.4
+21,Chocolate Cake,3,235.49
+22,Veg Burger,2,121.19
+22,Paneer Butter Masala,2,144.4
+23,Chocolate Cake,3,216.1
+23,Chocolate Cake,1,189.16
+23,Margarita Pizza,2,254.47
+24,Pasta Alfredo,3,130.15
+24,Paneer Butter Masala,2,120.91
+24,Margarita Pizza,1,123.21
+25,Chicken Biryani,2,162.38
+25,Margarita Pizza,1,204.22
+25,Veg Burger,2,119.52
+26,Pasta Alfredo,2,163.78
+26,Veg Burger,1,262.04
+26,Paneer Butter Masala,1,269.84
+27,Paneer Butter Masala,3,260.01
+27,Pasta Alfredo,1,203.2
+27,Chocolate Cake,1,166.2
+28,Margarita Pizza,1,259.55
+28,Pasta Alfredo,1,137.28
+29,Margarita Pizza,2,105.84
+29,Chocolate Cake,1,189.92
+29,Margarita Pizza,2,100.89
+30,Chicken Biryani,2,250.47
+31,Chocolate Cake,1,259.9
+32,Chicken Biryani,2,165.2
+32,Margarita Pizza,1,152.47
+32,Margarita Pizza,3,293.18
+33,Chocolate Cake,2,222.26
+33,Chocolate Cake,1,169.58
+34,Chocolate Cake,1,262.75
+34,Pasta Alfredo,2,283.74
+35,Paneer Butter Masala,3,126.79
+35,Paneer Butter Masala,1,161.08
+35,Chicken Biryani,2,238.69
+36,Margarita Pizza,2,219.29
+36,Chocolate Cake,2,184.61
+36,Margarita Pizza,3,207.48
+37,Chicken Biryani,3,133.37
+37,Veg Burger,1,137.42
+37,Margarita Pizza,3,110.72
+38,Paneer Butter Masala,2,127.31
+38,Margarita Pizza,3,201.09
+39,Margarita Pizza,3,198.35
+39,Pasta Alfredo,2,197.74
+40,Chocolate Cake,1,259.18
+41,Veg Burger,1,154.97
+42,Veg Burger,1,256.15
+42,Chocolate Cake,3,254.51
+42,Margarita Pizza,3,202.16
+43,Paneer Butter Masala,2,255.02
+43,Veg Burger,3,264.52
+43,Paneer Butter Masala,3,188.27
+44,Margarita Pizza,1,247.2
+45,Chicken Biryani,2,274.96
+45,Paneer Butter Masala,2,152.56
+45,Paneer Butter Masala,2,273.06
+46,Chicken Biryani,1,262.14
+47,Pasta Alfredo,2,272.21
+47,Chocolate Cake,3,185.63
+47,Chocolate Cake,1,256.97
+48,Paneer Butter Masala,3,170.16
+49,Chocolate Cake,3,133.68
+49,Pasta Alfredo,2,157.87
+50,Chocolate Cake,3,263.04
+50,Chicken Biryani,2,283.75
+51,Pasta Alfredo,1,240.29
+51,Chicken Biryani,1,129.25
+52,Chicken Biryani,3,178.54
+52,Chicken Biryani,3,226.48
+53,Margarita Pizza,2,190.4
+53,Pasta Alfredo,1,180.57
+53,Pasta Alfredo,2,238.94
+54,Margarita Pizza,2,165.46
+54,Paneer Butter Masala,3,118.63
+55,Pasta Alfredo,3,239.46
+55,Paneer Butter Masala,3,179.54
+56,Chicken Biryani,2,153.71
+56,Veg Burger,2,209.46
+57,Chocolate Cake,2,257.66
+58,Paneer Butter Masala,1,119.91
+58,Margarita Pizza,1,124.85
+58,Chicken Biryani,2,191.3
+59,Chicken Biryani,3,281.88
+59,Pasta Alfredo,2,131.8
+60,Paneer Butter Masala,3,172.09
+60,Paneer Butter Masala,2,232.9
+61,Chicken Biryani,1,179.27
+61,Veg Burger,3,239.89
+61,Chicken Biryani,2,231.1
+62,Paneer Butter Masala,1,142.68
+62,Paneer Butter Masala,1,218.74
+62,Chocolate Cake,3,189.01
+63,Pasta Alfredo,2,263.42
+64,Pasta Alfredo,1,195.54
+64,Chicken Biryani,2,117.87
+65,Paneer Butter Masala,2,173.51
+66,Chicken Biryani,2,254.69
+66,Chicken Biryani,3,298.59
+67,Paneer Butter Masala,3,212.66
+68,Pasta Alfredo,1,188.02
+68,Pasta Alfredo,1,225.62
+68,Chicken Biryani,2,223.22
+69,Chicken Biryani,1,279.32
+69,Chicken Biryani,1,217.91
+70,Veg Burger,2,162.9
+70,Chicken Biryani,1,155.39
+71,Chicken Biryani,3,220.2
+72,Chocolate Cake,2,255.79
+72,Pasta Alfredo,1,269.58
+72,Pasta Alfredo,2,141.09
+73,Chocolate Cake,1,249.57
+73,Veg Burger,3,110.91
+73,Chicken Biryani,2,177.18
+74,Margarita Pizza,3,218.79
+75,Paneer Butter Masala,2,286.78
+75,Chicken Biryani,2,272.16
+75,Chocolate Cake,2,173.08
+76,Chicken Biryani,2,290.89
+76,Paneer Butter Masala,1,217.47
+76,Paneer Butter Masala,2,143.15
+77,Margarita Pizza,3,157.3
+78,Chocolate Cake,2,184.72
+78,Margarita Pizza,1,228.11
+78,Chocolate Cake,3,130.54
+79,Veg Burger,1,202.26
+80,Chicken Biryani,3,165.35
+81,Pasta Alfredo,3,236.21
+81,Paneer Butter Masala,2,239.74
+81,Pasta Alfredo,1,111.58
+82,Margarita Pizza,1,190.67
+83,Paneer Butter Masala,2,233.22
+83,Pasta Alfredo,3,135.13
+83,Paneer Butter Masala,3,127.44
+84,Chicken Biryani,2,290.6
+85,Chocolate Cake,3,151.85
+85,Veg Burger,1,249.96
+85,Veg Burger,3,277.28
+86,Veg Burger,2,154.4
+87,Veg Burger,3,295.01
+88,Paneer Butter Masala,2,191.04
+88,Veg Burger,1,199.92
+88,Chocolate Cake,1,173.54
+89,Paneer Butter Masala,3,234.82
+89,Paneer Butter Masala,1,248.16
+90,Paneer Butter Masala,1,148.91
+91,Veg Burger,2,284.05
+91,Chicken Biryani,1,210.57
+92,Pasta Alfredo,3,183.87
+92,Veg Burger,1,183.25
+92,Pasta Alfredo,2,154.25
+93,Chocolate Cake,2,123.88
+94,Paneer Butter Masala,1,144.64
+94,Chocolate Cake,1,290.82
+94,Paneer Butter Masala,2,273.21
+95,Veg Burger,1,210.62
+95,Paneer Butter Masala,2,140.13
+96,Veg Burger,3,224.54
+96,Margarita Pizza,2,218.34
+96,Margarita Pizza,1,246.49
+97,Chicken Biryani,1,101.28
+97,Margarita Pizza,1,146.6
+97,Veg Burger,3,267.91
+98,Veg Burger,1,251.79
+99,Pasta Alfredo,3,161.5
+99,Chicken Biryani,3,296.62
+100,Margarita Pizza,1,294.51
+100,Chicken Biryani,3,155.97
+101,Chicken Biryani,3,182.61
+102,Margarita Pizza,3,116.98
+102,Paneer Butter Masala,3,126.7
+103,Paneer Butter Masala,3,213.56
+103,Margarita Pizza,3,292.84
+104,Veg Burger,2,270.18
+105,Pasta Alfredo,3,165.25
+105,Margarita Pizza,2,146.72
+106,Chicken Biryani,3,121.79
+107,Chicken Biryani,2,193.21
+108,Paneer Butter Masala,3,171.66
+108,Chicken Biryani,2,161.66
+109,Paneer Butter Masala,1,131.52
+109,Pasta Alfredo,2,265.28
+110,Chocolate Cake,1,143.0
+110,Veg Burger,1,118.24
+110,Chicken Biryani,2,179.25
+111,Pasta Alfredo,2,152.03
+112,Paneer Butter Masala,2,270.92
+113,Pasta Alfredo,3,149.97
+113,Margarita Pizza,1,260.78
+113,Chicken Biryani,1,102.39
+114,Chicken Biryani,1,264.73
+115,Pasta Alfredo,3,287.51
+115,Paneer Butter Masala,3,217.22
+116,Paneer Butter Masala,1,139.55
+117,Margarita Pizza,1,118.4
+117,Veg Burger,1,108.54
+117,Margarita Pizza,1,133.6
+118,Margarita Pizza,3,179.0
+118,Paneer Butter Masala,2,236.64
+118,Chicken Biryani,2,142.94
+119,Veg Burger,2,189.2
+120,Paneer Butter Masala,3,223.84
+121,Pasta Alfredo,2,199.78
+122,Margarita Pizza,1,117.54
+122,Margarita Pizza,1,183.85
+122,Pasta Alfredo,3,149.83
+123,Paneer Butter Masala,2,256.38
+123,Veg Burger,2,208.9
+123,Margarita Pizza,2,282.54
+124,Veg Burger,2,154.09
+124,Paneer Butter Masala,2,219.42
+124,Paneer Butter Masala,2,111.72
+125,Chocolate Cake,2,253.37
+125,Chicken Biryani,1,120.03
+126,Chicken Biryani,2,206.74
+126,Pasta Alfredo,1,252.81
+126,Chicken Biryani,3,269.3
+127,Veg Burger,1,135.22
+127,Chocolate Cake,2,261.24
+128,Veg Burger,3,105.64
+128,Pasta Alfredo,2,289.51
+128,Chocolate Cake,1,212.62
+129,Margarita Pizza,3,161.81
+130,Paneer Butter Masala,1,111.23
+130,Chocolate Cake,1,103.99
+131,Paneer Butter Masala,2,283.58
+131,Chicken Biryani,1,168.15
+132,Veg Burger,1,104.38
+133,Pasta Alfredo,1,254.87
+133,Chocolate Cake,2,292.11
+133,Veg Burger,3,288.38
+134,Chocolate Cake,1,167.31
+134,Veg Burger,1,295.17
+135,Margarita Pizza,3,292.13
+135,Pasta Alfredo,2,134.84
+135,Chocolate Cake,3,277.92
+136,Veg Burger,1,233.11
+136,Chicken Biryani,2,161.36
+136,Pasta Alfredo,2,125.47
+137,Paneer Butter Masala,3,289.74
+137,Margarita Pizza,3,106.48
+137,Chocolate Cake,2,284.21
+138,Chicken Biryani,3,213.11
+138,Margarita Pizza,1,166.23
+138,Paneer Butter Masala,1,169.36
+139,Chicken Biryani,3,277.06
+139,Paneer Butter Masala,3,234.0
+140,Veg Burger,2,102.28
+140,Chicken Biryani,1,238.64
+140,Veg Burger,2,257.4
+141,Paneer Butter Masala,1,177.19
+141,Pasta Alfredo,2,293.82
+141,Margarita Pizza,2,276.35
+142,Chocolate Cake,2,120.29
+142,Margarita Pizza,3,230.19
+143,Chicken Biryani,1,190.26
+143,Paneer Butter Masala,2,104.02
+143,Veg Burger,1,114.84
+144,Margarita Pizza,1,246.4
+145,Paneer Butter Masala,2,218.81
+145,Chocolate Cake,2,240.9
+145,Margarita Pizza,3,133.0
+146,Chicken Biryani,1,120.25
+146,Chicken Biryani,1,181.86
+147,Pasta Alfredo,3,208.03
+147,Pasta Alfredo,2,159.48
+147,Paneer Butter Masala,1,178.58
+148,Margarita Pizza,1,110.9
+148,Paneer Butter Masala,2,117.53
+148,Pasta Alfredo,3,220.04
+149,Paneer Butter Masala,1,141.39
+150,Veg Burger,1,194.71
+150,Paneer Butter Masala,2,256.98
+150,Margarita Pizza,2,278.98
+151,Paneer Butter Masala,3,208.83
+151,Chicken Biryani,2,277.1
+152,Chicken Biryani,2,108.92
+152,Margarita Pizza,2,152.68
+153,Chocolate Cake,1,130.23
+153,Pasta Alfredo,3,119.34
+154,Veg Burger,3,182.8
+154,Chocolate Cake,1,210.72
+154,Margarita Pizza,3,183.73
+155,Pasta Alfredo,2,214.54
+155,Chicken Biryani,2,159.77
+155,Margarita Pizza,3,106.95
+156,Chocolate Cake,3,235.51
+156,Chocolate Cake,1,124.06
+156,Margarita Pizza,1,289.81
+157,Chicken Biryani,1,125.24
+158,Paneer Butter Masala,3,187.08
+158,Pasta Alfredo,1,266.82
+159,Veg Burger,3,282.83
+159,Paneer Butter Masala,1,177.62
+160,Chocolate Cake,2,271.32
+160,Chocolate Cake,2,283.43
+161,Pasta Alfredo,3,217.52
+162,Paneer Butter Masala,2,129.93
+162,Chocolate Cake,3,216.54
+163,Paneer Butter Masala,3,255.91
+164,Chocolate Cake,2,275.58
+164,Veg Burger,2,230.96
+165,Chocolate Cake,2,107.49
+165,Veg Burger,2,128.77
+165,Chocolate Cake,3,238.73
+166,Margarita Pizza,2,238.1
+167,Pasta Alfredo,2,284.17
+168,Paneer Butter Masala,2,263.48
+168,Veg Burger,2,156.07
+169,Pasta Alfredo,3,119.64
+169,Chicken Biryani,1,160.1
+170,Margarita Pizza,2,153.88
+170,Margarita Pizza,3,229.11
+170,Chicken Biryani,2,142.28
+171,Pasta Alfredo,2,251.9
+171,Veg Burger,1,203.05
+172,Paneer Butter Masala,2,241.91
+173,Chicken Biryani,3,275.87
+173,Paneer Butter Masala,1,138.55
+174,Paneer Butter Masala,1,106.61
+175,Veg Burger,3,139.82
+176,Margarita Pizza,3,179.39
+176,Paneer Butter Masala,3,106.11
+177,Margarita Pizza,3,189.22
+177,Margarita Pizza,3,210.27
+178,Chicken Biryani,2,249.79
+178,Pasta Alfredo,1,157.01
+179,Paneer Butter Masala,1,270.76
+179,Chicken Biryani,1,229.48
+180,Chicken Biryani,2,230.32
+180,Chocolate Cake,1,272.93
+180,Pasta Alfredo,1,194.82
+181,Pasta Alfredo,1,220.23
+182,Chicken Biryani,2,221.67
+183,Pasta Alfredo,3,228.55
+183,Margarita Pizza,2,270.32
+184,Veg Burger,1,193.34
+184,Pasta Alfredo,3,264.86
+185,Chocolate Cake,1,101.47
+185,Pasta Alfredo,2,212.29
+186,Chocolate Cake,2,159.7
+186,Paneer Butter Masala,2,112.77
+186,Veg Burger,3,165.03
+187,Veg Burger,3,242.22
+187,Pasta Alfredo,2,137.67
+188,Chicken Biryani,1,261.09
+188,Chocolate Cake,2,232.11
+188,Pasta Alfredo,1,244.26
+189,Margarita Pizza,2,151.89
+189,Margarita Pizza,2,177.65
+189,Paneer Butter Masala,3,241.61
+190,Chicken Biryani,2,245.31
+190,Chicken Biryani,3,206.93
+190,Margarita Pizza,3,171.7
+191,Chicken Biryani,3,275.3
+191,Chicken Biryani,2,119.52
+192,Pasta Alfredo,2,245.04
+193,Chicken Biryani,3,279.92
+193,Pasta Alfredo,1,144.45
+193,Chicken Biryani,3,274.29
+194,Veg Burger,2,152.11
+194,Veg Burger,2,270.24
+195,Paneer Butter Masala,3,216.71
+195,Chocolate Cake,1,194.44
+196,Chocolate Cake,1,273.5
+197,Chocolate Cake,2,182.62
+197,Chicken Biryani,1,298.47
+198,Margarita Pizza,3,278.57
+198,Margarita Pizza,1,163.28
+199,Chicken Biryani,1,197.52
+199,Pasta Alfredo,1,162.68
+199,Paneer Butter Masala,1,190.41
+200,Chicken Biryani,3,252.9
+201,Paneer Butter Masala,1,222.9
+201,Pasta Alfredo,2,180.68
+202,Margarita Pizza,1,107.55
+202,Chicken Biryani,3,174.62
+203,Veg Burger,3,138.12
+204,Paneer Butter Masala,3,246.72
+204,Chicken Biryani,3,275.4
+204,Veg Burger,1,120.54
+205,Chocolate Cake,2,133.4
+205,Paneer Butter Masala,2,289.69
+205,Margarita Pizza,3,204.06
+206,Veg Burger,2,277.59
+206,Chicken Biryani,2,299.23
+206,Margarita Pizza,2,250.02
+207,Margarita Pizza,1,145.68
+208,Chicken Biryani,1,246.82
+208,Chocolate Cake,3,133.8
+208,Veg Burger,3,230.11
+209,Margarita Pizza,3,151.16
+210,Chocolate Cake,1,218.78
+210,Paneer Butter Masala,3,121.62
+210,Paneer Butter Masala,1,237.95
+211,Margarita Pizza,2,124.72
+211,Veg Burger,2,240.37
+212,Pasta Alfredo,3,226.06
+213,Margarita Pizza,3,120.2
+213,Chocolate Cake,2,224.56
+214,Chicken Biryani,2,266.13
+214,Paneer Butter Masala,3,243.75
+214,Paneer Butter Masala,2,122.8
+215,Margarita Pizza,1,221.8
+216,Chocolate Cake,1,171.58
+216,Margarita Pizza,2,132.07
+217,Margarita Pizza,1,237.64
+217,Margarita Pizza,2,146.9
+217,Paneer Butter Masala,3,117.8
+218,Chocolate Cake,3,198.82
+219,Chocolate Cake,1,244.71
+220,Veg Burger,3,146.23
+221,Veg Burger,2,110.02
+221,Chicken Biryani,1,270.45
+222,Pasta Alfredo,2,185.2
+222,Paneer Butter Masala,1,270.25
+223,Paneer Butter Masala,1,232.67
+224,Veg Burger,2,278.91
+225,Veg Burger,3,118.59
+225,Veg Burger,1,122.77
+225,Margarita Pizza,2,154.37
+226,Pasta Alfredo,2,259.98
+226,Pasta Alfredo,1,122.61
+227,Pasta Alfredo,1,296.31
+227,Chicken Biryani,1,183.21
+227,Chocolate Cake,2,260.45
+228,Margarita Pizza,1,222.26
+228,Veg Burger,3,105.76
+228,Pasta Alfredo,3,294.69
+229,Margarita Pizza,2,122.59
+230,Margarita Pizza,1,112.67
+230,Pasta Alfredo,2,102.47
+231,Chocolate Cake,3,215.33
+231,Chocolate Cake,1,295.58
+231,Pasta Alfredo,2,203.82
+232,Pasta Alfredo,3,119.05
+232,Pasta Alfredo,3,149.72
+232,Veg Burger,3,235.26
+233,Chicken Biryani,3,278.41
+233,Chocolate Cake,1,102.33
+234,Chocolate Cake,2,270.37
+235,Paneer Butter Masala,2,164.13
+236,Veg Burger,1,201.39
+236,Chocolate Cake,3,175.73
+237,Paneer Butter Masala,2,188.84
+238,Margarita Pizza,1,271.32
+238,Margarita Pizza,2,123.74
+238,Margarita Pizza,3,230.67
+239,Margarita Pizza,2,107.17
+240,Paneer Butter Masala,1,258.36
+240,Chocolate Cake,3,160.92
+240,Chocolate Cake,3,141.37
+241,Margarita Pizza,2,172.67
+241,Paneer Butter Masala,1,268.86
+241,Veg Burger,3,253.48
+242,Margarita Pizza,3,231.43
+242,Pasta Alfredo,2,122.8
+242,Pasta Alfredo,1,100.44
+243,Pasta Alfredo,2,209.54
+243,Veg Burger,3,121.26
+244,Margarita Pizza,1,264.37
+245,Pasta Alfredo,2,121.39
+245,Chocolate Cake,1,137.51
+245,Margarita Pizza,1,191.41
+246,Pasta Alfredo,2,121.55
+247,Paneer Butter Masala,3,267.49
+247,Chocolate Cake,1,254.43
+248,Margarita Pizza,3,217.86
+248,Chocolate Cake,1,292.77
+249,Chocolate Cake,3,109.71
+250,Chocolate Cake,2,284.87
+250,Chicken Biryani,3,215.71
+251,Chicken Biryani,1,177.48
+251,Chocolate Cake,3,276.54
+251,Chocolate Cake,2,183.73
+252,Pasta Alfredo,1,154.72
+252,Veg Burger,2,190.57
+252,Chicken Biryani,1,182.55
+253,Pasta Alfredo,3,159.78
+253,Pasta Alfredo,3,272.14
+253,Pasta Alfredo,3,287.1
+254,Chicken Biryani,1,141.94
+254,Pasta Alfredo,2,237.32
+254,Pasta Alfredo,1,296.27
+255,Chicken Biryani,3,208.5
+255,Pasta Alfredo,2,242.07
+255,Veg Burger,3,196.07
+256,Pasta Alfredo,3,183.5
+256,Pasta Alfredo,3,157.19
+256,Margarita Pizza,1,204.55
+257,Margarita Pizza,1,110.61
+258,Chicken Biryani,2,250.04
+259,Veg Burger,3,150.11
+260,Pasta Alfredo,2,140.8
+261,Paneer Butter Masala,2,262.81
+261,Paneer Butter Masala,3,273.61
+261,Pasta Alfredo,3,272.97
+262,Pasta Alfredo,3,177.78
+262,Chocolate Cake,3,157.53
+262,Pasta Alfredo,1,285.3
+263,Margarita Pizza,3,162.53
+263,Chocolate Cake,1,102.59
+264,Chicken Biryani,3,273.77
+264,Margarita Pizza,1,282.3
+265,Pasta Alfredo,3,173.55
+265,Chocolate Cake,3,247.69
+265,Chicken Biryani,3,292.86
+266,Margarita Pizza,1,296.69
+266,Paneer Butter Masala,1,292.5
+267,Chocolate Cake,1,175.44
+267,Margarita Pizza,2,211.32
+267,Chicken Biryani,1,216.8
+268,Paneer Butter Masala,2,193.27
+268,Chicken Biryani,1,130.74
+269,Chocolate Cake,1,254.73
+269,Pasta Alfredo,3,268.63
+270,Margarita Pizza,3,210.03
+270,Paneer Butter Masala,3,163.57
+271,Chicken Biryani,3,113.64
+272,Chicken Biryani,2,208.62
+272,Margarita Pizza,1,169.88
+272,Chicken Biryani,3,166.38
+273,Veg Burger,1,290.06
+273,Chocolate Cake,3,194.97
+274,Pasta Alfredo,1,122.94
+274,Veg Burger,2,148.07
+274,Pasta Alfredo,3,283.72
+275,Paneer Butter Masala,3,277.13
+276,Paneer Butter Masala,2,151.32
+276,Pasta Alfredo,2,104.94
+277,Veg Burger,3,260.56
+277,Margarita Pizza,2,108.77
+277,Pasta Alfredo,1,164.06
+278,Paneer Butter Masala,1,294.33
+279,Chocolate Cake,1,225.39
+279,Chicken Biryani,3,225.9
+279,Chicken Biryani,3,184.84
+280,Chicken Biryani,3,265.75
+281,Margarita Pizza,3,263.35
+281,Paneer Butter Masala,3,237.21
+281,Paneer Butter Masala,2,243.37
+282,Paneer Butter Masala,1,110.85
+283,Chocolate Cake,1,214.99
+283,Chicken Biryani,2,181.53
+284,Pasta Alfredo,2,186.61
+284,Paneer Butter Masala,2,234.66
+285,Paneer Butter Masala,3,244.06
+285,Paneer Butter Masala,3,217.12
+285,Pasta Alfredo,1,171.54
+286,Paneer Butter Masala,2,257.38
+286,Veg Burger,3,117.3
+286,Margarita Pizza,2,179.02
+287,Paneer Butter Masala,2,131.26
+287,Chicken Biryani,1,249.35
+287,Chocolate Cake,2,292.03
+288,Veg Burger,3,277.4
+289,Pasta Alfredo,2,291.48
+289,Paneer Butter Masala,3,274.95
+289,Chicken Biryani,1,108.35
+290,Chocolate Cake,2,207.43
+290,Paneer Butter Masala,2,142.01
+290,Pasta Alfredo,3,168.77
+291,Pasta Alfredo,3,128.49
+291,Chicken Biryani,1,223.38
+292,Chicken Biryani,1,136.27
+292,Chocolate Cake,1,270.28
+293,Margarita Pizza,3,209.93
+293,Veg Burger,3,113.47
+293,Paneer Butter Masala,1,245.12
+294,Veg Burger,2,125.64
+294,Pasta Alfredo,1,120.01
+295,Paneer Butter Masala,1,163.56
+295,Margarita Pizza,2,223.27
+295,Veg Burger,3,216.83
+296,Chocolate Cake,2,261.54
+296,Margarita Pizza,1,100.97
+296,Chicken Biryani,1,242.44
+297,Margarita Pizza,2,268.02
+297,Chicken Biryani,3,246.59
+297,Margarita Pizza,2,189.07
+298,Margarita Pizza,3,121.77
+298,Pasta Alfredo,3,116.39
+299,Chicken Biryani,3,139.29
+299,Pasta Alfredo,3,115.29
+300,Paneer Butter Masala,3,226.33
+301,Chocolate Cake,2,253.84
+301,Chicken Biryani,1,210.32
+301,Chocolate Cake,3,194.42
+302,Veg Burger,2,144.66
+303,Pasta Alfredo,2,126.78
+303,Chocolate Cake,3,118.11
+303,Veg Burger,3,102.12
+304,Chocolate Cake,3,133.17
+305,Chicken Biryani,2,131.84
+305,Chocolate Cake,3,231.88
+305,Chicken Biryani,3,246.4
+306,Paneer Butter Masala,1,252.29
+306,Chicken Biryani,1,152.87
+307,Paneer Butter Masala,3,141.35
+308,Margarita Pizza,2,283.58
+308,Paneer Butter Masala,1,296.12
+309,Paneer Butter Masala,3,293.69
+309,Pasta Alfredo,2,266.97
+310,Chocolate Cake,3,214.03
+310,Margarita Pizza,3,175.7
+311,Pasta Alfredo,1,203.33
+311,Margarita Pizza,1,203.27
+311,Veg Burger,2,197.37
+312,Chocolate Cake,1,200.37
+312,Chicken Biryani,2,133.12
+313,Chocolate Cake,3,156.16
+314,Chicken Biryani,1,172.44
+315,Paneer Butter Masala,3,146.07
+315,Veg Burger,3,122.67
+315,Pasta Alfredo,2,195.8
+316,Chicken Biryani,3,266.67
+316,Paneer Butter Masala,1,108.63
+316,Chocolate Cake,3,132.23
+317,Chocolate Cake,1,278.16
+317,Chicken Biryani,1,133.27
+317,Chicken Biryani,3,291.65
+318,Chocolate Cake,3,103.72
+318,Pasta Alfredo,3,232.35
+318,Veg Burger,1,143.32
+319,Margarita Pizza,2,134.11
+319,Margarita Pizza,3,128.54
+319,Chocolate Cake,1,224.64
+320,Veg Burger,1,244.84
+320,Veg Burger,2,219.31
+320,Paneer Butter Masala,1,175.64
+321,Paneer Butter Masala,1,140.47
+322,Pasta Alfredo,2,265.3
+322,Chocolate Cake,1,135.48
+322,Chocolate Cake,3,107.81
+323,Chocolate Cake,1,118.64
+323,Pasta Alfredo,1,280.4
+323,Chocolate Cake,1,279.39
+324,Pasta Alfredo,2,204.41
+324,Veg Burger,1,239.53
+324,Margarita Pizza,1,287.68
+325,Margarita Pizza,2,217.81
+325,Pasta Alfredo,3,215.22
+326,Chicken Biryani,2,195.43
+326,Chicken Biryani,1,156.65
+327,Margarita Pizza,2,137.8
+327,Pasta Alfredo,3,257.88
+327,Chocolate Cake,3,123.57
+328,Margarita Pizza,3,141.08
+329,Margarita Pizza,2,121.32
+329,Margarita Pizza,3,217.07
+330,Chocolate Cake,2,212.93
+330,Chocolate Cake,2,298.36
+331,Chicken Biryani,2,210.42
+331,Chocolate Cake,2,135.74
+332,Chocolate Cake,2,150.76
+332,Veg Burger,3,168.87
+332,Pasta Alfredo,2,247.16
+333,Paneer Butter Masala,3,145.95
+333,Pasta Alfredo,1,120.06
+333,Chocolate Cake,2,257.22
+334,Chocolate Cake,3,236.91
+334,Paneer Butter Masala,1,177.82
+334,Pasta Alfredo,1,260.87
+335,Margarita Pizza,3,187.08
+336,Veg Burger,1,174.17
+337,Paneer Butter Masala,3,176.87
+337,Margarita Pizza,3,231.24
+337,Veg Burger,3,292.71
+338,Chicken Biryani,3,198.87
+339,Chicken Biryani,3,286.15
+340,Veg Burger,1,106.72
+340,Chocolate Cake,3,203.16
+340,Chicken Biryani,3,133.9
+341,Veg Burger,1,231.0
+342,Paneer Butter Masala,2,255.93
+343,Pasta Alfredo,2,181.09
+343,Chicken Biryani,3,103.07
+344,Paneer Butter Masala,1,209.92
+344,Pasta Alfredo,3,283.0
+344,Veg Burger,2,292.66
+345,Chicken Biryani,3,292.61
+345,Margarita Pizza,2,214.98
+346,Chicken Biryani,2,201.25
+346,Chocolate Cake,1,200.63
+347,Paneer Butter Masala,3,291.34
+347,Chocolate Cake,3,150.03
+348,Margarita Pizza,3,196.73
+348,Chicken Biryani,2,292.25
+349,Pasta Alfredo,2,279.3
+349,Paneer Butter Masala,2,123.25
+350,Margarita Pizza,3,257.73
+351,Pasta Alfredo,3,145.99
+352,Margarita Pizza,2,203.3
+352,Paneer Butter Masala,3,266.44
+353,Veg Burger,1,179.79
+354,Veg Burger,1,210.91
+354,Chicken Biryani,2,162.77
+354,Chicken Biryani,3,153.82
+355,Pasta Alfredo,1,199.8
+355,Chicken Biryani,1,247.09
+355,Veg Burger,1,145.84
+356,Chocolate Cake,2,131.2
+357,Paneer Butter Masala,1,235.16
+358,Margarita Pizza,3,101.32
+358,Chocolate Cake,1,269.6
+358,Veg Burger,3,163.08
+359,Veg Burger,2,136.57
+359,Chocolate Cake,2,179.58
+359,Chocolate Cake,1,110.83
+360,Margarita Pizza,3,106.51
+360,Veg Burger,2,272.08
+361,Margarita Pizza,1,239.65
+362,Veg Burger,3,101.68
+362,Pasta Alfredo,1,175.89
+363,Veg Burger,2,222.56
+364,Chicken Biryani,3,152.57
+364,Veg Burger,2,291.71
+365,Veg Burger,1,199.75
+365,Chicken Biryani,2,240.14
+366,Veg Burger,2,155.93
+366,Chicken Biryani,3,126.23
+367,Pasta Alfredo,1,262.84
+367,Pasta Alfredo,2,260.82
+367,Chocolate Cake,2,271.26
+368,Chicken Biryani,3,129.91
+369,Chicken Biryani,2,199.92
+370,Chocolate Cake,3,244.11
+370,Margarita Pizza,2,150.19
+370,Chocolate Cake,1,179.68
+371,Chicken Biryani,1,143.09
+371,Veg Burger,2,267.79
+371,Paneer Butter Masala,2,248.92
+372,Veg Burger,2,212.07
+372,Veg Burger,2,103.97
+373,Veg Burger,3,292.62
+374,Chocolate Cake,3,229.97
+375,Chicken Biryani,2,171.02
+375,Pasta Alfredo,3,197.5
+375,Pasta Alfredo,2,277.93
+376,Chocolate Cake,2,192.75
+376,Chicken Biryani,1,228.12
+377,Margarita Pizza,3,222.46
+377,Margarita Pizza,1,115.82
+378,Chicken Biryani,2,163.38
+378,Veg Burger,3,153.49
+379,Margarita Pizza,2,277.54
+379,Veg Burger,3,217.38
+379,Margarita Pizza,2,133.46
+380,Chicken Biryani,3,146.93
+381,Pasta Alfredo,3,249.95
+381,Chicken Biryani,1,179.41
+382,Paneer Butter Masala,2,209.69
+383,Margarita Pizza,3,253.0
+384,Paneer Butter Masala,2,223.62
+385,Pasta Alfredo,2,161.87
+386,Pasta Alfredo,2,188.63
+387,Chicken Biryani,3,267.7
+388,Paneer Butter Masala,3,171.37
+389,Margarita Pizza,2,295.0
+389,Chocolate Cake,2,209.71
+390,Pasta Alfredo,3,135.41
+391,Margarita Pizza,3,249.78
+391,Chocolate Cake,2,204.69
+391,Pasta Alfredo,3,161.93
+392,Margarita Pizza,3,145.43
+392,Paneer Butter Masala,2,161.57
+393,Veg Burger,1,160.71
+393,Paneer Butter Masala,3,263.08
+394,Veg Burger,2,193.84
+395,Pasta Alfredo,2,289.39
+396,Veg Burger,1,253.17
+396,Veg Burger,3,146.24
+397,Chocolate Cake,2,137.71
+398,Margarita Pizza,2,149.98
+398,Pasta Alfredo,3,229.2
+398,Margarita Pizza,1,152.6
+399,Pasta Alfredo,1,203.32
+399,Chocolate Cake,3,236.93
+400,Pasta Alfredo,3,206.39
+400,Veg Burger,2,137.6
+401,Chicken Biryani,1,157.92
+402,Margarita Pizza,3,190.55
+402,Pasta Alfredo,3,198.4
+402,Veg Burger,1,130.43
+403,Paneer Butter Masala,1,294.47
+403,Veg Burger,2,125.01
+403,Margarita Pizza,3,101.64
+404,Chicken Biryani,1,198.72
+405,Margarita Pizza,2,257.15
+405,Margarita Pizza,2,192.74
+406,Veg Burger,1,268.71
+407,Paneer Butter Masala,2,255.13
+408,Chocolate Cake,2,136.32
+409,Margarita Pizza,1,124.39
+409,Pasta Alfredo,1,176.96
+410,Chicken Biryani,3,298.91
+410,Chicken Biryani,2,247.06
+411,Chocolate Cake,3,296.42
+412,Margarita Pizza,3,292.24
+412,Veg Burger,1,225.83
+413,Pasta Alfredo,3,204.19
+414,Margarita Pizza,3,159.76
+414,Veg Burger,1,272.73
+415,Paneer Butter Masala,1,226.58
+416,Paneer Butter Masala,1,258.88
+416,Chocolate Cake,1,179.16
+417,Paneer Butter Masala,1,216.22
+418,Margarita Pizza,3,219.24
+418,Veg Burger,1,149.74
+418,Margarita Pizza,1,237.19
+419,Pasta Alfredo,1,111.96
+419,Pasta Alfredo,1,240.27
+420,Chicken Biryani,2,146.53
+421,Pasta Alfredo,2,261.11
+421,Margarita Pizza,3,138.59
+421,Pasta Alfredo,2,171.63
+422,Veg Burger,1,197.06
+423,Chocolate Cake,2,208.55
+423,Margarita Pizza,1,213.34
+424,Veg Burger,2,246.48
+424,Veg Burger,3,282.89
+424,Chocolate Cake,1,113.78
+425,Margarita Pizza,2,263.88
+426,Veg Burger,2,100.14
+426,Pasta Alfredo,3,175.81
+426,Chicken Biryani,1,223.95
+427,Chocolate Cake,1,164.14
+427,Paneer Butter Masala,3,293.43
+428,Chicken Biryani,3,236.64
+428,Chocolate Cake,1,222.61
+429,Margarita Pizza,3,164.4
+429,Paneer Butter Masala,3,231.78
+430,Chicken Biryani,1,274.7
+431,Paneer Butter Masala,2,138.32
+432,Chocolate Cake,3,267.26
+433,Margarita Pizza,3,224.79
+433,Chocolate Cake,2,109.82
+433,Chicken Biryani,3,243.57
+434,Chicken Biryani,3,198.28
+435,Margarita Pizza,3,112.14
+436,Pasta Alfredo,2,264.41
+436,Pasta Alfredo,1,264.73
+436,Veg Burger,3,108.13
+437,Veg Burger,1,288.92
+438,Paneer Butter Masala,1,245.03
+438,Chocolate Cake,2,137.89
+438,Chocolate Cake,3,149.75
+439,Chicken Biryani,3,249.84
+439,Margarita Pizza,3,121.1
+439,Pasta Alfredo,3,171.59
+440,Pasta Alfredo,3,185.41
+440,Paneer Butter Masala,1,258.49
+441,Margarita Pizza,3,167.5
+441,Chicken Biryani,3,299.69
+441,Margarita Pizza,2,280.5
+442,Veg Burger,2,182.47
+442,Pasta Alfredo,2,265.23
+442,Veg Burger,3,148.14
+443,Chicken Biryani,2,253.14
+443,Pasta Alfredo,2,172.0
+443,Margarita Pizza,2,291.96
+444,Pasta Alfredo,1,296.59
+445,Paneer Butter Masala,3,127.02
+445,Veg Burger,1,160.07
+445,Chicken Biryani,1,271.14
+446,Pasta Alfredo,2,283.82
+447,Chocolate Cake,3,285.18
+447,Chicken Biryani,1,107.55
+447,Veg Burger,1,127.68
+448,Chocolate Cake,1,146.6
+448,Veg Burger,1,214.1
+449,Chicken Biryani,3,115.44
+449,Veg Burger,2,134.58
+449,Pasta Alfredo,3,215.25
+450,Chocolate Cake,3,160.08
+451,Chocolate Cake,2,115.7
+451,Paneer Butter Masala,2,169.59
+451,Margarita Pizza,2,286.05
+452,Chicken Biryani,3,230.56
+453,Paneer Butter Masala,3,255.48
+453,Margarita Pizza,1,160.96
+453,Paneer Butter Masala,2,207.99
+454,Veg Burger,3,239.55
+455,Paneer Butter Masala,3,246.32
+456,Margarita Pizza,3,215.05
+456,Paneer Butter Masala,1,186.39
+457,Chicken Biryani,1,167.23
+457,Margarita Pizza,3,249.06
+458,Margarita Pizza,2,117.02
+458,Chocolate Cake,2,254.77
+458,Chicken Biryani,1,196.18
+459,Margarita Pizza,2,230.45
+460,Chocolate Cake,3,299.42
+461,Chicken Biryani,1,114.33
+461,Margarita Pizza,2,236.95
+461,Chocolate Cake,1,122.51
+462,Margarita Pizza,2,169.66
+462,Veg Burger,2,218.78
+463,Veg Burger,1,297.53
+464,Margarita Pizza,3,129.16
+464,Paneer Butter Masala,1,139.94
+464,Veg Burger,1,251.55
+465,Paneer Butter Masala,3,110.91
+466,Chicken Biryani,2,102.75
+466,Pasta Alfredo,1,161.02
+466,Margarita Pizza,1,166.38
+467,Chocolate Cake,1,140.76
+467,Chocolate Cake,2,209.76
+467,Chocolate Cake,3,298.46
+468,Pasta Alfredo,3,103.68
+468,Chocolate Cake,3,205.36
+468,Veg Burger,1,112.02
+469,Pasta Alfredo,3,154.26
+470,Pasta Alfredo,1,113.32
+470,Pasta Alfredo,2,232.6
+471,Veg Burger,1,103.82
+471,Pasta Alfredo,2,146.23
+471,Margarita Pizza,3,295.32
+472,Veg Burger,2,273.35
+473,Paneer Butter Masala,1,139.78
+473,Margarita Pizza,3,285.27
+473,Paneer Butter Masala,1,149.48
+474,Veg Burger,2,197.99
+474,Pasta Alfredo,1,103.67
+474,Pasta Alfredo,2,171.08
+475,Chicken Biryani,3,155.18
+475,Paneer Butter Masala,3,151.54
+476,Paneer Butter Masala,3,289.82
+476,Chicken Biryani,1,168.36
+477,Pasta Alfredo,1,117.56
+477,Margarita Pizza,3,292.12
+478,Pasta Alfredo,3,145.49
+478,Chicken Biryani,3,130.55
+478,Veg Burger,3,165.86
+479,Chicken Biryani,1,230.49
+479,Chocolate Cake,3,236.81
+479,Chicken Biryani,1,161.8
+480,Chocolate Cake,1,186.01
+480,Chicken Biryani,3,286.61
+480,Chicken Biryani,2,113.56
+481,Pasta Alfredo,1,136.83
+481,Chicken Biryani,3,105.9
+481,Veg Burger,2,292.24
+482,Margarita Pizza,3,286.75
+482,Pasta Alfredo,3,154.76
+483,Paneer Butter Masala,1,136.95
+484,Chocolate Cake,2,221.12
+484,Chocolate Cake,1,219.27
+484,Chicken Biryani,3,105.22
+485,Pasta Alfredo,2,126.82
+486,Margarita Pizza,3,229.91
+486,Chicken Biryani,2,198.29
+486,Chicken Biryani,1,138.65
+487,Margarita Pizza,1,285.09
+488,Chicken Biryani,3,234.27
+488,Chicken Biryani,1,113.23
+489,Chocolate Cake,2,237.57
+489,Margarita Pizza,1,185.51
+490,Chocolate Cake,3,264.87
+491,Veg Burger,2,222.3
+491,Pasta Alfredo,3,218.76
+491,Chocolate Cake,3,275.16
+492,Chocolate Cake,1,190.32
+493,Chicken Biryani,3,207.57
+494,Paneer Butter Masala,3,177.48
+494,Pasta Alfredo,1,137.97
+494,Margarita Pizza,2,276.88
+495,Margarita Pizza,1,184.49
+495,Chocolate Cake,1,237.99
+496,Margarita Pizza,3,190.34
+497,Chocolate Cake,1,135.95
+497,Chocolate Cake,3,209.28
+497,Margarita Pizza,2,164.69
+498,Chicken Biryani,2,218.06
+499,Chicken Biryani,2,118.04
+499,Veg Burger,3,229.72
+499,Pasta Alfredo,1,243.67
+500,Paneer Butter Masala,1,241.25

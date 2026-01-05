@@ -1,0 +1,21 @@
+restaurant_id,name,city,cuisine_type
+1,Restaurant_1,Kolkata,Mexican
+2,Restaurant_2,Ahmedabad,Fast Food
+3,Restaurant_3,Ahmedabad,Italian
+4,Restaurant_4,Delhi,Chinese
+5,Restaurant_5,Hyderabad,Fast Food
+6,Restaurant_6,Hyderabad,Italian
+7,Restaurant_7,Delhi,Fast Food
+8,Restaurant_8,Kolkata,Desserts
+9,Restaurant_9,Mumbai,Italian
+10,Restaurant_10,Hyderabad,South Indian
+11,Restaurant_11,Hyderabad,South Indian
+12,Restaurant_12,Mumbai,Desserts
+13,Restaurant_13,Delhi,Continental
+14,Restaurant_14,Mumbai,Desserts
+15,Restaurant_15,Hyderabad,Desserts
+16,Restaurant_16,Delhi,Fast Food
+17,Restaurant_17,Mumbai,North Indian
+18,Restaurant_18,Kolkata,South Indian
+19,Restaurant_19,Delhi,North Indian
+20,Restaurant_20,Hyderabad,Desserts
